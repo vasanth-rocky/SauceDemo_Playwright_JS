@@ -1,0 +1,1 @@
+locator('//button[@class="btn btn_primary btn_small btn_inventory "]')
